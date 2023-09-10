@@ -22,3 +22,4 @@ public class TypesOfVariables{
             System.out.println("div is"+ty.div());
         }
     }
+    
